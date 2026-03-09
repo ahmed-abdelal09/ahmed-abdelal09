@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdel-Aal</h1>
-<h3 align="center">Aspiring Backend Developer | Software Engineer</h3>
+
+<p align="center">
+Aspiring Backend Developer | .NET Developer | Software Engineer
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer+.NET;C%23+Developer;Problem+Solver;Computer+Science+Student&center=true&width=500&height=45">
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science Student
-💻 Interested in Backend Development
-🚀 Passionate about Software Engineering
-🧠 Strong focus on Problem Solving & Algorithms
+* 🎓 Computer Science Student
+* 💻 Passionate about Backend Development
+* 🚀 Interested in Software Engineering & System Design
+* 🧠 Strong focus on Problem Solving & Algorithms
 
 ---
 
@@ -19,10 +26,14 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
 
-### Backend & Databases
+### Backend Development
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+
+### Databases
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 
 ### Computer Science
 
@@ -33,19 +44,10 @@
 
 ### Tools
 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-
----
-
-## 📌 Featured Projects
-
-🏦 Bank System (OOP Project)
-💳 ATM System
-📚 String Library
-📅 Date Library
-🧰 Utility Library
-✔ Input Validation Library
 
 ---
 

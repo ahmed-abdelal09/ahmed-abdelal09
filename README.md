@@ -60,5 +60,3 @@ Aspiring Backend Developer | .NET Developer | Software Engineer
 https://www.linkedin.com/in/ahmedabdelal7/
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=hexarch&icon=0&color=0)](https://visitcount.itsvg.in)

@@ -60,3 +60,7 @@ Aspiring Backend Developer | .NET Developer | Software Engineer
 https://www.linkedin.com/in/ahmedabdelal7/
 
 ---
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---

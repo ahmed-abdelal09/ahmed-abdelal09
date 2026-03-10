@@ -61,4 +61,4 @@ https://www.linkedin.com/in/ahmedabdelal7/
 
 ---
 
-⭐ Always learning and building new projects in Backend Development
+[![](https://visitcount.itsvg.in/api?id=hexarch&icon=0&color=0)](https://visitcount.itsvg.in)

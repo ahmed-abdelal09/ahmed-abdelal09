@@ -57,6 +57,10 @@ Aspiring Backend Developer | .NET Developer | Software Engineer
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ahmedabdelal7&theme=dark)
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmedabdelal7&theme=dark" width="48%"/>
+</p>
+
 ---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdelal7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

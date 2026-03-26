@@ -58,10 +58,9 @@ Aspiring Backend Developer | .NET Developer | Software Engineer
 <!--![GitHub Streak](https://streak-stats.demolab.com?user=ahmedabdelal7&theme=dark)![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdelal7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmedabdelal7&theme=dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdela17&theme=dark&layout=compact" height="180" style="margin-left: 10px;"/>
+  <img src="https://streak-stats.demolab.com?user=ahmedabdela17&theme=dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdela17&theme=dark&layout=compact" height="180"/>
 </p>
-
 ---
 
 ### Thanks for Visiting my GitHub Profile!

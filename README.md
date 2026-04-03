@@ -19,28 +19,18 @@ Aspiring Backend Developer | .NET Developer | Software Engineer
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
+🛠️ Skills & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### Backend Development
-
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Databases
-
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### Computer Science
 
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2E8B57?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge)
 
 </div>
 ### Tools

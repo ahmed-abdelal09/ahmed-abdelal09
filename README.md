@@ -32,13 +32,14 @@ Aspiring Backend Developer | .NET Developer | Software Engineer
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2E8B57?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge)
 
-</div>
 ### Tools
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+
+</div>
 
 ---
 <!--![](https://github-readme-stats.vercel.app/api?username=ahmedabdelal7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)

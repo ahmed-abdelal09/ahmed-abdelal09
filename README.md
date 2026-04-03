@@ -56,7 +56,6 @@ Aspiring Backend Developer | .NET Developer | Software Engineer
 </p> 
 
 ---
-
 <h2 align="center">Thanks for Visiting my GitHub Profile!</h2>
 
 ---

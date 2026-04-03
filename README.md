@@ -12,10 +12,10 @@ Aspiring Backend Developer | .NET Developer | Software Engineer
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science Student
-💻 Passionate about Backend Development
-🚀 Interested in Software Engineering & System Design
-🧠 Strong focus on Problem Solving & Algorithms
+🎓 Computer Science Student</br>
+💻 Passionate about Backend Development</br>
+🚀 Interested in Software Engineering & System Design</br>
+🧠 Strong focus on Problem Solving & Algorithms</br>
 
 ---
 

@@ -8,32 +8,32 @@ Aspiring Backend Developer | .NET Developer | Software Engineer
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer+.NET;C%23+Developer;Problem+Solver;Computer+Science+Student&center=true&width=500&height=45">
 </p>
 
----
-<p align="center">
+<div align="center">
+
 ## 👨‍💻 About Me
 
-* 🎓 Computer Science Student
-* 💻 Passionate about Backend Development
-* 🚀 Interested in Software Engineering & System Design
-* 🧠 Strong focus on Problem Solving & Algorithms
-</p>
+🎓 Computer Science Student
+💻 Passionate about Backend Development
+🚀 Interested in Software Engineering & System Design
+🧠 Strong focus on Problem Solving & Algorithms
+
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Backend Development
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Databases
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### Computer Science
 
@@ -42,6 +42,7 @@ Aspiring Backend Developer | .NET Developer | Software Engineer
 ![OOP](https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2E8B57?style=for-the-badge)
 
+</div>
 ### Tools
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)

@@ -79,9 +79,9 @@ Aspiring Backend Developer | .NET Developer | Software Engineer
 
 ---
 
+<div align="center">
 ## 🔗 Connect With Me
 
-<div align="center">
   <a href="https://www.linkedin.com/in/ahmedabdelal7">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

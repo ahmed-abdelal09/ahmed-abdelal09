@@ -56,6 +56,13 @@ Aspiring Backend Developer | .NET Developer | Software Engineer
 </p> 
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ahmedabdelal7?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedabdelal7&style=for-the-badge&color=1f6feb" />
+</p>
+
+---
 <h2 align="center">Thanks for Visiting my GitHub Profile!</h2>
 
 ---

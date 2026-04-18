@@ -14,7 +14,7 @@ Aspiring Backend Developer | .NET Developer | Software Engineer
 
 🎓 Computer Science Student</br>
 💻 Passionate about Backend Development</br>
-🚀 Interested in Software Engineering & System Design</br>
+🚀 Interested in Software Engineering & System Design </br>
 🧠 Strong focus on Problem Solving & Algorithms</br>
 
 ---

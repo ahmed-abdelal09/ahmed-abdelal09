@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdel-Aal</h1>
 
 <p align="center">
-Aspiring Backend Developer | .NET Developer | Software Engineer
+Full Stack Developer | .NET Developer | Software Engineer
 </p>
 
 <p align="center">

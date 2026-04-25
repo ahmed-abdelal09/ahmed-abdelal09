@@ -5,7 +5,7 @@ Aspiring Backend Developer | .NET Developer | Software Engineer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer+.NET;C%23+Developer;Problem+Solver;Computer+Science+Student&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+.NET;C%23+Developer;Problem+Solver;Computer+Science+Student&center=true&width=500&height=45">
 </p>
 
 <div align="center">

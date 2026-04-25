@@ -13,7 +13,7 @@ Full Stack Developer | .NET Developer | Software Engineer
 ## 👨‍💻 About Me
 
 🎓 Computer Science Student</br>
-💻 Passionate about Backend Development</br>
+💻 Passionate about Full Stack Development</br>
 🚀 Interested in Software Engineering & System Design </br>
 🧠 Strong focus on Problem Solving & Algorithms</br>
 

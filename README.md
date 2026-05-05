@@ -51,7 +51,6 @@ Full Stack Developer | .NET Developer | Software Engineer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdelal7&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="55%"/>
 </p>
 
-<h2 align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdelal7&theme=tokyonight)<h2>
 
 
 

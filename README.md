@@ -48,11 +48,8 @@ Full Stack Developer | .NET Developer | Software Engineer
 <h2 align="center">📊 GitHub Stats:<h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdelal7&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="55%"/>
-</p>
-
-
-
+  <img src="https://streak-stats.demolab.com?user=ahmedabdelal7%20&theme=vitesse&border_radius=4.6&date_format=j%20M%5B%20Y%5D"/>
+</p> 
 
 ---
 

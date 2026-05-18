@@ -87,6 +87,10 @@ Full Stack Developer | .NET Developer | Software Engineer
   <a href="mailto:aabdelaal.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://api.whatsapp.com/send?phone=201090243709">
+    <img src= "https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </div>
+
 
 ---
